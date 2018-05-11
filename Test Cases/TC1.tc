@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>demonstrates how to run command from Katalon</description>
+   <name>TC1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef7b432a-b7f6-438b-85d5-066539d836e0</testCaseGuid>
+</TestCaseEntity>
